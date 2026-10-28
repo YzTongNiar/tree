@@ -502,3 +502,4 @@ PR 描述中的正确性结果：
 4. 减少 graph tier 选择中的 host-device 同步。
 5. 根据历史 acceptance 分布自动调整 threshold。
 6. 将 graph bucket、slot 利用率和 padding 开销纳入统一 profiler。
+
